@@ -1,16 +1,13 @@
-# weather_app
+# Introduction
+This Weather App is the second app created in the amazing [course](https://www.youtube.com/watch?v=CzRQ9mnmh44) by Rivaan Ranawat.
 
-A new Flutter project.
+The app will provide the current weather and the hourly forecast for Hanoi, Vietnam.
 
-## Getting Started
+You can check API for the app [here](https://openweathermap.org/api)
 
-This project is a starting point for a Flutter application.
+# Images
+<img width="200" alt="018" src="https://github.com/user-attachments/assets/1043f859-c4ca-4a9e-94f0-8243ce9fe77c"> <img width="200" alt="018" src="https://github.com/user-attachments/assets/582b1f3e-0605-40fd-8b94-6242eba9956c">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
